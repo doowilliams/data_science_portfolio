@@ -4,4 +4,8 @@ Presented in the from of Jupter Notebooks.
 
 Tools
 
-* <b>Python<b/>
+* <b>Python<b/>: NumPy, Pandas, Seaborn, Matplotlip
+* <b>Machine Learning<b/>: scikit-learn, TensorFlow, Keras
+
+# Contents
+  * # <b>Machine Learning<b/>
