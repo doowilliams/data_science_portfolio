@@ -16,7 +16,14 @@ Tools
      * [Neural Network (NNs) -  biology](https://github.com/doowilliams/data_science_poortfolio/blob/main/Neural_Network_Irises_.ipynb): is a network or circuit of biological neurons,or in a modern sense,an artificial neural network.
      
      * [K-means clustering -  biology](https://github.com/doowilliams/data_science_poortfolio/blob/main/K-mean%20Iris%20(unsupervised).ipynb): is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster.
-     * [ TfidfVectorizer - smiple text or words detector](https://github.com/doowilliams/data_science_poortfolio/blob/main/Building_a_simple_NLP_Spam_and_Harm_Dectector.ipynb): Tfidfvectorizer for text classification · Term Frequency: Number of time a word appears in a text documen
+     * [ TfidfVectorizer - smiple text or words detector](https://github.com/doowilliams/data_science_poortfolio/blob/main/Building_a_simple_NLP_Spam_and_Harm_Dectector.ipynb): Tfidfvectorizer for text classification · Term Frequency: Number of time a word appears in a text document
+
+ * # Data Analysis and Visulization (Python Programming)
+  
+     * [Exploratory Data Analysis - House Prices](https://github.com/doowilliams/data_science_poortfolio/blob/main/Boston%20house%20prices%20Liner%20Regression.ipynb): Simple analysis of house prices including quick visualizations with correlation plots.
+     * [Exploratory Data Analysis - Titanic Passenger information](https://github.com/doowilliams/data_science_poortfolio/blob/main/titanic.ipynb): Simple analysis of passengers on board the Titanic answering questions with visualizations.
+     * [Exploratory Data Analysis - Wine Quality](https://github.com/doowilliams/data_science_poortfolio/blob/main/Wine%20Quality%20(Statistic%20-%20Visualization%20EDA).ipynb): Simple statistic - visualization on the quality of wine base no acid in the wine 
+     * [Simple Linear Regression - Salary](https://github.com/doowilliams/data_science_poortfolio/blob/main/Linear%20Regression-%20Finance.ipynb): Small playground to summarize and study relationships between two continuos variables.
       
    
    
