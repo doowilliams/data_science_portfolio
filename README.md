@@ -16,7 +16,7 @@ Tools
      * [Iris project using Neural Network (NNs)](https://github.com/doowilliams/data_science_poortfolio/blob/main/Neural_Network_Irises_.ipynb): is a network or circuit of biological neurons,or in a modern sense,an artificial neural network.
      
      * [Iris projct using K-means clustering](https://github.com/doowilliams/data_science_poortfolio/blob/main/K-mean%20Iris%20(unsupervised).ipynb): is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster.
-     * [ TfidfVectorizer - smiple text or words detector](https://github.com/doowilliams/data_science_poortfolio/blob/main/Building_a_simple_NLP_Spam_and_Harm_Dectector.ipynb): Tfidfvectorizer for text classification · Term Frequency: Number of time a word appears in a text document
+     * [  smiple text or words detector using TfidfVectorizer ](https://github.com/doowilliams/data_science_poortfolio/blob/main/Building_a_simple_NLP_Spam_and_Harm_Dectector.ipynb): Tfidfvectorizer for text classification · Term Frequency: Number of time a word appears in a text document
      * [Olympic 100m Gold Times using Linear Regression](https://github.com/doowilliams/data_science_poortfolio/blob/main/Olympic%20100m%20Gold%20Times.ipynb): is the supervised Machine Learning model in which the model finds the best fit linear line between the independent and dependent variable i.e it finds the linear relationship between the dependent and independent variable.
 
  * # Data Analysis and Visualization (Python Programming)
