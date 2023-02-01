@@ -9,7 +9,7 @@ Tools
 
 # Contents
   *  ## Machine Learning
-     * [Braet cancels project: using logistic regression ](https://github.com/doowilliams/data_science_poortfolio/blob/main/Breat_Cancer.ipynb): logistic regression is a supervised learning classification algorithm use to predict the probability of a target varibale. The nature of target or dependent variable is dichotomous, which means there would be only two possible classes
+     * [Breast cancels project: using logistic regression ](https://github.com/doowilliams/data_science_poortfolio/blob/main/Breat_Cancer.ipynb): logistic regression is a supervised learning classification algorithm use to predict the probability of a target varibale. The nature of target or dependent variable is dichotomous, which means there would be only two possible classes
        
      * [Iris project using k-nearest neighbours (KNN)](https://github.com/doowilliams/data_science_poortfolio/blob/main/Iris%20KNN.ipynb): algorithm is a simple, supervise that can be used to solve both classification and regression problems.The number of nearest neighbours to a new unknown variable that has to be predicted or classified is denoted by the symbol ‘K’.
      
